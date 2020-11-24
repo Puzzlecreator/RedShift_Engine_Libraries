@@ -1,0 +1,5 @@
+C:/Users/puzzl/source/repos/RedShift_Engine_CMAKE/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/puzzl/source/repos/RedShift_Engine_CMAKE/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+C:/Users/puzzl/source/repos/RedShift_Engine_CMAKE/out/build/x64-Debug (default)/RedShift_Engine_CMAKE/CMakeFiles/RedShift_Engine_CMAKE.dir
+C:/Users/puzzl/source/repos/RedShift_Engine_CMAKE/out/build/x64-Debug (default)/RedShift_Engine_CMAKE/CMakeFiles/edit_cache.dir
+C:/Users/puzzl/source/repos/RedShift_Engine_CMAKE/out/build/x64-Debug (default)/RedShift_Engine_CMAKE/CMakeFiles/rebuild_cache.dir
